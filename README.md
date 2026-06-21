@@ -1,4 +1,4 @@
-# Rusiru123
+# rusirumandara123
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXBzcjA3cXp1emdoeGZyNWl6cHF2ODdvMnljZzJmdHhqZDl4cGNoaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKHfEpir70h8tuU/giphy.gif" width="100%" />
 </p>
