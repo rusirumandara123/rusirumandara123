@@ -38,3 +38,8 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rusirumandara123&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rusirumandara123&layout=compact)
+
+## 📫 Connect With Me
+
+- LinkedIn: your-linkedin.com/in/rusiru-mandara-326433211
+- Email: rusirumandara7889@gmail.com
