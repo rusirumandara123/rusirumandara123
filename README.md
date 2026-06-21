@@ -85,6 +85,9 @@
 
 ---
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rusirumandara123&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=rusirumandara123&theme=radical&no-frame=true&margin-w=10" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rusirumandara123&show_icons=true&theme=tokyonight" />
+</p>
