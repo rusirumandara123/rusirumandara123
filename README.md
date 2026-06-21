@@ -6,6 +6,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=1000&color=39FF14&center=true&vCenter=true&width=1000&lines=Initializing+Profile...;Loading+Cybersecurity+Journey...;Learning+C%2B%2B+and+Java...;Exploring+Linux+and+Networking...;Future+Cybersecurity+Engineer" />
 </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=1E90FF&center=true&vCenter=true&width=900&lines=Rusiru+Mandara;Computing+Student;Cybersecurity+Enthusiast;Software+Developer;Always+Learning+New+Things" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Rusiru Mandara</h1>
 
