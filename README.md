@@ -38,12 +38,9 @@
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Snake
 
-<p align="center">
-  <img src="https://github.com/rusirumandara123/rusirumandara123/blob/output/snake.svg" />
-</p>
----
+![snake](https://github.com/rusirumandara123/rusirumandara123/blob/output/snake.svg)
 
 ## 📫 Connect With Me
 - LinkedIn: https://www.linkedin.com/in/rusiru-mandara-326433211/
