@@ -73,39 +73,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rusirumandara123&theme=tokyonight" />
 </p>
 
-.github/workflows/snake.yml
+## 📈 Activity Graph
 
-![snake gif](https://github.com/rusirumandara123/rusirumandara123/blob/output/snake.svg)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rusirumandara123&theme=react-dark" />
+</p>
 
-
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"   # every 12 hours auto run
-  workflow_dispatch:         # manual run button
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-
-    steps:
-      - name: Checkout repo
-        uses: actions/checkout@v3
-
-      - name: Generate snake animation
-        uses: Platane/snk@master
-        id: snake-gif
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/snake.svg
-            dist/snake.gif
-
-      - name: Push snake to output branch
-        uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+---
