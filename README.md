@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Rusiru+Mandara;Aspiring+Cybersecurity+Professional;C%2B%2B+Developer;Java+Learner;Linux+Enthusiast;Future+Cybersecurity+Engineer" alt="Typing SVG" />
-</p>
-
+<h1 align="center">Hi ,👋 I'm Rusiru Mandara</h1>
 
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXBzcjA3cXp1emdoeGZyNWl6cHF2ODdvMnljZzJmdHhqZDl4cGNoaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKHfEpir70h8tuU/giphy.gif" width="100%" />
@@ -14,7 +11,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=1E90FF&center=true&vCenter=true&width=900&lines=Rusiru+Mandara;Computing+Student;Cybersecurity+Enthusiast;Software+Developer;Always+Learning+New+Things" />
 </p>
 
-<h1 align="center">Hi ,👋 I'm Rusiru Mandara</h1>
+
 
 <h3 align="center">
 🔐 Aspiring Cybersecurity Professional | 💻 C++ | Java | Linux
