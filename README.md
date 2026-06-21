@@ -26,3 +26,11 @@
 - Ethical Hacking
 - Data Structures & Algorithms
 - Secure Coding
+
+  ## 🚀 Featured Projects
+
+- 📚 Student Management System (C++)
+- 🔐 Password Checker Tool
+- 🌐 Port Scanner (Basic)
+
+  
