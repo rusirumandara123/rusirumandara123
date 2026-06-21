@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=200&section=header&text=CYBER%20PROFILE&fontSize=40&fontColor=00ffcc" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=1000&lines=Booting+Cyber+Profile...;Accessing+GitHub+System...;Loading+Ethical+Hacker+Mode...;System+Ready+✔" />
+</p>
+
 <h1 align="center">Hi ,👋 I'm Rusiru Mandara</h1>
 
 <p align="center">
@@ -77,6 +85,3 @@
 </p>
 
 ---
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=200&section=header&text=CYBER%20PROFILE&fontSize=40&fontColor=00ffcc" />
-</p>
