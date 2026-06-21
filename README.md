@@ -88,6 +88,4 @@
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rusirumandara123/rusirumandara123/output/snake.svg"/>
-</p>
+
