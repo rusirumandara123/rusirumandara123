@@ -31,6 +31,10 @@
 - 💻 Learning C++, Java, Linux
 - 🚀 Building real-world projects
 
+  ## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/Rusiru2004/Rusiru2004/blob/output/github-contribution-grid-snake.svg)
+
 ## 🛠️ Languages & Tools
 
 ![C++](https://img.shields.io/badge/C++-blue)
