@@ -1,5 +1,7 @@
 # Rusiru123
-
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnQzcWYwenZrbDZxYTJlNWl0NDk3aGs1MTV2dmVyejE5bXF4dzNuaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/a7jCRzDW5TH7vsIbYD/giphy.gif" width="100%" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=1000&color=39FF14&center=true&vCenter=true&width=1000&lines=Initializing+Profile...;Loading+Cybersecurity+Journey...;Learning+C%2B%2B+and+Java...;Exploring+Linux+and+Networking...;Future+Cybersecurity+Engineer" />
