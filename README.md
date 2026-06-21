@@ -77,3 +77,6 @@
 </p>
 
 ---
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=200&section=header&text=CYBER%20PROFILE&fontSize=40&fontColor=00ffcc" />
+</p>
