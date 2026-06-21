@@ -38,11 +38,14 @@
 
 ## 🛠️ Languages & Tools
 
-![C++](https://img.shields.io/badge/C++-blue)
-![Java](https://img.shields.io/badge/Java-orange)
-![Linux](https://img.shields.io/badge/Linux-black)
-![Git](https://img.shields.io/badge/Git-red)
-![GitHub](https://img.shields.io/badge/GitHub-white)
+<p align="center">
+
+<img src="https://img.shields.io/badge/C++-black?style=for-the-badge&logo=c%2B%2B&logoColor=00ff00"/>
+<img src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java&logoColor=red"/>
+<img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=yellow"/>
+<img src="https://img.shields.io/badge/Cybersecurity-black?style=for-the-badge&logo=kalilinux&logoColor=blue"/>
+
+</p>
 
 ## 🌱 Currently Learning
 
@@ -84,11 +87,4 @@
 </p>
 
 ---
-<p align="center">
 
-<img src="https://img.shields.io/badge/C++-black?style=for-the-badge&logo=c%2B%2B&logoColor=00ff00"/>
-<img src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java&logoColor=red"/>
-<img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=yellow"/>
-<img src="https://img.shields.io/badge/Cybersecurity-black?style=for-the-badge&logo=kalilinux&logoColor=blue"/>
-
-</p>
