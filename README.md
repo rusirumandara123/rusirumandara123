@@ -14,6 +14,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=1E90FF&center=true&vCenter=true&width=900&lines=Rusiru+Mandara;Computing+Student;Cybersecurity+Enthusiast;Software+Developer;Always+Learning+New+Things" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rusiru2004&label=Profile+Views&color=blueviolet&style=for-the-badge" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Rusiru Mandara</h1>
 
 <h3 align="center">
