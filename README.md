@@ -88,10 +88,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=rusirumandara123&show_icons=true&theme=tokyonight"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rusirumandara123&theme=matrix&no-frame=true&margin-w=15"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rusirumandara123&theme=tokyonight"/>
-</p>
