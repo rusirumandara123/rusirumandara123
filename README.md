@@ -72,14 +72,16 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rusirumandara123&theme=tokyonight" />
 </p>
-.github/workflows/snake.yml
+
+.github
+   └── workflows
+
 
 name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
-
+    - cron: "0 */12 * * *"  # every 12 hours
   workflow_dispatch:
 
 jobs:
@@ -87,23 +89,24 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: rusirumandara123
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - name: Checkout repo
+        uses: actions/checkout@v3
 
-      - uses: crazy-max/ghaction-github-pages@v4
+      - name: Generate snake animation
+        uses: Platane/snk@master
+        id: snake-gif
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake.svg
+            dist/snake.gif
+
+      - name: Push snake animation to output branch
+        uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-
-    ## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/rusirumandara123/rusirumandara123/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
+      ![snake gif](https://github.com/rusirumandara123/rusirumandara123/blob/output/snake.svg)
