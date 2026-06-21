@@ -11,3 +11,11 @@
 - 🔐 Interested in Cybersecurity & Ethical Hacking
 - 💻 Learning C++, Java, Linux
 - 🚀 Building real-world projects
+
+## 🛠️ Languages & Tools
+
+![C++](https://img.shields.io/badge/C++-blue)
+![Java](https://img.shields.io/badge/Java-orange)
+![Linux](https://img.shields.io/badge/Linux-black)
+![Git](https://img.shields.io/badge/Git-red)
+![GitHub](https://img.shields.io/badge/GitHub-white)
