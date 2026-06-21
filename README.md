@@ -19,3 +19,10 @@
 ![Linux](https://img.shields.io/badge/Linux-black)
 ![Git](https://img.shields.io/badge/Git-red)
 ![GitHub](https://img.shields.io/badge/GitHub-white)
+
+## 🌱 Currently Learning
+
+- Networking Basics
+- Ethical Hacking
+- Data Structures & Algorithms
+- Secure Coding
