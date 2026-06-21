@@ -15,6 +15,9 @@
 <h3 align="center">
 🔐 Aspiring Cybersecurity Professional | 💻 C++ | Java | Linux
 </h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rusiru2004&label=Profile+Views&color=blueviolet&style=for-the-badge" />
+</p>
 
 ## 👨‍💻 About Me
 
