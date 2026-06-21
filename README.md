@@ -1,11 +1,4 @@
 # Rusiru123
-<p align="center">
-  <img src="YOUR_GIF_LINK" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rusiru2004&label=Profile+Views&color=blueviolet&style=for-the-badge" />
-</p>
 
 <h1 align="center">Hi 👋, I'm Rusiru Mandara</h1>
 
