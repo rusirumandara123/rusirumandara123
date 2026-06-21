@@ -62,7 +62,8 @@
 - Email: rusirumandara7889@gmail.com
 
 > "The quieter you become, the more you are able to hear."
->
+
+.github/workflows/snake.yml
 name: Generate Snake
 
 on:
